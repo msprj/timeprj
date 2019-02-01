@@ -1,6 +1,6 @@
 package's home : msprj/timeprj
 
-This package show the Time & Date frome difrent Timezones
+This package show Time & Date from diffrent Timezones
 
 Installation:
 
