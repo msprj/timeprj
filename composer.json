@@ -12,8 +12,8 @@
     "autoload": {
         "psr-4": {
             "msprj\\timeprj\\": "src/"
-        },
-        
+        }
+    }    
         "minimum-stability": "dev",
 
         "require": {}
