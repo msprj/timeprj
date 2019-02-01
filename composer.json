@@ -13,8 +13,7 @@
         "psr-4": {
             "msprj\\timeprj\\": "src/"
         }
-    }    
-        "minimum-stability": "dev",
+    },
+        "minimum-stability": "dev"
 
-        "require": {}
 }
