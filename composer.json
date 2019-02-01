@@ -1,0 +1,20 @@
+{
+    "name": "msprj/timeprj",
+    "description": "This is my prj package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "masoud",
+            "email": "rpt_836@yahoo.com"
+        }
+    ],
+
+    "autoload": {
+        "psr-4": {
+            "msprj\\timeprj\\": "src/"
+        },
+        
+        "minimum-stability": "dev",
+
+        "require": {}
+}
